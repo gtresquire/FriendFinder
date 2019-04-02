@@ -10,7 +10,7 @@ app.use(bodyParser.json());
 app.use(express.static('./app/public'));
 
 require('./app/routing/apiRoutes.js')(app);
-require('./app/routing/htmlRoutes.js')(app); // Must be last due to catch all default route.
+require('./app/routing/htmlRoutes.js')(app); // Last - catch all default route.
 
 app.listen(PORT, function() {
   console.log("App listening on PORT " + PORT);

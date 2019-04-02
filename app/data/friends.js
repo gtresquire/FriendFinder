@@ -129,7 +129,7 @@ var friends = [
   },
   {
     "name": "Pam",
-    "photo": "https://s.yimg.com/ny/api/res/1.2/aGQiMXDB51eVnOoNQiB9Kg--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9NjUw/http://media.zenfs.com/en-US/homerun/uproxx_tv_739/12840835f777b2e6c26236ffdb9236fb",
+    "photo": "https://uproxx.files.wordpress.com/2016/11/pam-the-office4.jpg?quality=100&w=650",
     "scores": [
       4,
       4,
