@@ -1,0 +1,23 @@
+#survey-title {
+  text-shadow: 2px 2px 8px #337ab7;
+}
+
+.question-label {
+  font-weight: bold;
+}
+
+.question-select {
+  width: 25%;
+}
+
+#friend-img {
+  display: block;
+  height: 25rem;
+  margin: 0 auto 0 auto;
+  max-width: 100%;
+  width: 35rem;
+}
+
+.modal-title, .modal-body {
+  text-align: center;
+}
