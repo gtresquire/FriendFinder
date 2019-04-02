@@ -9,7 +9,7 @@ module.exports = app => {
                      photo: req.body.photo,
                      scores: req.body.scores.map(score => parseInt(score))};
 
-    /* Calculate difference between new and other friends. Figure out who has the smallest difference. For a tie, first match wins. */
+    /* Calculate difference between user and stored friends. Determine the smallest difference. If a tie, first match wins. */
     var iMatch = 
       friends.map(friend =>
         friend.scores.map((score, index) => 
