@@ -1,71 +1,71 @@
 var friends = [
   {
-    "name": "Elaine",
-    "photo": "https://timedotcom.files.wordpress.com/2014/06/seinfeld-elaine-benes-fashion-05.jpg?quality=85",
+    "name": "James",
+    "photo": "https://static2.stuff.co.nz/1270559034/252/3552252.jpg",
     "scores": [
       1,
       1,
       5,
-      3,
-      3,
-      1,
-      1,
       5,
-      5,
-      3
-    ]
-  },
-  {
-    "name": "George",
-    "photo": "https://content.linkedin.com/content/dam/business/marketing-solutions/global/en_US/blog/2015/11/george-costanza.jpg",
-    "scores": [
       3,
-      3,
-      3,
-      4,
-      3,
-      2,
-      4,
-      4,
-      3,
-      3
-    ]
-  },
-  {
-    "name": "Jerry",
-    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJa3jTxbKqdgTnAk1Q9JZpEV5jde3CQKT0bs781nCl2BfI8xUEJA",
-    "scores": [
-      4,
-      5,
-      2,
-      2,
       1,
-      4,
-      4,
-      1,
+      2,
+      5,
       3,
       1
     ]
   },
   {
-    "name": "Kramer",
-    "photo": "http://img.wennermedia.com/920-width/rs-140911-20140627-seinfeld-03-x1800-1403889555.jpg",
+    "name": "Kim",
+    "photo": "http://www.gstatic.com/tv/thumb/persons/512947/512947_v9_ba.jpg",
+    "scores": [
+      1,
+      3,
+      4,
+      5,
+      3,
+      3,
+      4,
+      4,
+      5,
+      1
+    ]
+  },
+  {
+    "name": "Conan",
+    "photo": "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/assets/v3/editorial/0/61/061f2244-96da-592a-afb3-0ddd967ef30a/5bd733887e37b.image.jpg?resize=400%2C301",
+    "scores": [
+      4,
+      5,
+      3,
+      5,
+      2,
+      4,
+      5,
+      2,
+      3,
+      1
+    ]
+  },
+  {
+    "name": "Oprah",
+    "photo": "https://cdn.britannica.com/s:300x300/74/202174-004-F7D85900.jpg",
     "scores": [
       5,
-      4,
-      4,
-      5,
-      4,
-      2,
-      5,
-      5,
       1,
+      4,
+      3,
+      4,
+      3,
+      1,
+      5,
+      2,
       4
     ]
   },
   {
-    "name": "Chandler",
-    "photo": "http://www.media2.hw-static.com/wp-content/uploads/Matthew-Perry-Friends-NBC-060115-1276x850.jpg",
+    "name": "Eminem",
+    "photo": "https://1zl13gzmcsu3l9yq032yyf51-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/eminem-purpose-success.jpg",
     "scores": [
       5,
       4,
@@ -80,8 +80,8 @@ var friends = [
     ]
   },
   {
-    "name": "Monica",
-    "photo": "https://image.afcdn.com/story/20140225/monica-gellar-184341_w767h767c1cx345cy200.jpg",
+    "name": "Steve",
+    "photo": "http://www3.pictures.zimbio.com/gi/Steve+Carell+2013+Los+Angeles+Film+Festival+Qn83BiUfI44l.jpg",
     "scores": [
       5,
       5,
@@ -96,8 +96,8 @@ var friends = [
     ]
   },
   {
-    "name": "Joey",
-    "photo": "http://www.neontommy.com/sites/default/files/Screen%20Shot%202015-02-11%20at%205.04.41%20PM.png?1423704277",
+    "name": "Dwight",
+    "photo": "https://cimg.tvgcdn.net/i/2012/01/26/74b5aa66-c2ab-457e-92c1-c7ac46315ccc/198a2892d5221d8bc82c78a82cb5e2ac/120225office-rainn-wilson1.jpg",
     "scores": [
       5,
       5,
@@ -112,8 +112,8 @@ var friends = [
     ]
   },
   {
-    "name": "Ross",
-    "photo": "http://img.playbuzz.com/image/upload/f_auto,fl_lossy,q_auto/cdn/49167dac-a59e-4d6e-8e66-59e129e32921/bcbbb7fc-a3a1-4fe1-890b-2853684f79a6.jpg",
+    "name": "Jim",
+    "photo": "https://cdn.cnn.com/cnnnext/dam/assets/190214213647-06-john-krasinski-large-169.jpg",
     "scores": [
       4,
       3,
@@ -128,8 +128,8 @@ var friends = [
     ]
   },
   {
-    "name": "Phoebe",
-    "photo": "https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Fimages.hellogiggles.com%2Fuploads%2F2016%2F05%2F23015746%2Fphoebe.jpg&w=700&q=85",
+    "name": "Pam",
+    "photo": "https://s.yimg.com/ny/api/res/1.2/aGQiMXDB51eVnOoNQiB9Kg--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9NjUw/http://media.zenfs.com/en-US/homerun/uproxx_tv_739/12840835f777b2e6c26236ffdb9236fb",
     "scores": [
       4,
       4,
@@ -144,8 +144,8 @@ var friends = [
     ]
   },
   {
-    "name": "Rachel",
-    "photo": "https://doceloucura.files.wordpress.com/2014/09/rachel.jpg",
+    "name": "Angela",
+    "photo": "https://images.hellogiggles.com/uploads/2016/09/26091415/angelaoffice2.jpg",
     "scores": [
       4,
       3,
