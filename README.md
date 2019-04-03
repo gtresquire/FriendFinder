@@ -8,13 +8,16 @@
 
 <img src="https://github.com/gtresquire/FriendFinder/blob/master/app/public/assets/images/finder1.png" alt="Image one" style="max-width:100%;">
 
-## Step 2:  User enters likelihood on a scale of 1 to 5.
+
+## Step 2:  User provides their name, a link to a picure, and selects responsees to the questionnaire.
 
 <img src="https://github.com/gtresquire/FriendFinder/blob/master/app/public/assets/images/finder2.png" alt="Image one" style="max-width:100%;">
+
 
 ## Step 3:  Submit the survey to find your match.  If the survey is incomplete a message appears telling the user to provide responses to all of the questions. 
 
 <img src="https://github.com/gtresquire/FriendFinder/blob/master/app/public/assets/images/finder3a.png" alt="Image one" style="max-width:100%;">
+
 
 ## Step 4:  Your most compatible match based on survey results is displayed.
 
