@@ -8,7 +8,7 @@ FriendFinder/app/public/assets/images/finder1.png
 
 
 
-<a href="https://github.com/gtresquire/FriendFinder/app/public/assets/images/finder1.png"><img src="https://github.com/gtresquire/FriendFinder/app/public/assets/images/finder1.png" alt="Image one" style="max-width:100%;"></a>
+<img src="https://github.com/gtresquire/FriendFinder/app/public/assets/images/finder1.png" alt="Image one" style="max-width:100%;">
 
 <a href="https://github.com/gtresquire/FriendFinder/app/public/assets/images/finder2.png"><img src="https://github.com/gtresquire/FriendFinder/app/public/assets/images/finder2.png" alt="Image two" style="max-width:100%;"></a>
 
