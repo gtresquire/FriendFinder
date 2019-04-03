@@ -1,4 +1,4 @@
-# FriendFinder - Node.js application using Express and MySql
+# FriendFinder - Node.js application using Express
 
 ## Overview:
 
