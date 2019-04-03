@@ -6,7 +6,15 @@ Friend Finder is a compatibility-based application that takes in results from a 
 
 FriendFinder/app/public/assets/images/finder1.png
 
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
+![alt text](https://raw.githubusercontent.com/gtresquire/FriendFinder/app/public/assets/images/finder2.png)
+
+
+github.com/gtresquire/FriendFinder/app/public/assets/images/finder2.png
+
+
+<img src="https://github.com/gtresquire/bamazon/blob/master/Step%201.png" alt="step 1" style="max-width:100%;">
 
 <img src="https://github.com/gtresquire/FriendFinder/app/public/assets/images/finder1.png" alt="Image one" style="max-width:100%;">
 
